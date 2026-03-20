@@ -2,7 +2,7 @@
 
 A highly unique, deeply gamified personal portfolio website featuring an RPG/MMO HUD aesthetic, built with React, TypeScript, Tailwind CSS, and Framer Motion.
 
-**Live Site**: [https://shailendra-rana.github.io/Portfolio/](https://shailendra-rana.github.io/-Portfolio/)
+**Live Site**: [https://shailendra-rana.github.io/Portfolio/](https://shailendra-rana.github.io/Portfolio/)
 
 ---
 
